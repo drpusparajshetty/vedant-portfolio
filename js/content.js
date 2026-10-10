@@ -186,7 +186,7 @@ window.SITE = {
         where: "Eastern Caribbean Central Bank",
         title: "40th anniversary stamp design",
         text: "Winner, 5–11 category.",
-        links: []
+        links: [{ text: "Press", url: "https://www.stvincenttimes.com/vedant-shetty-of-svg-won-the-eccb-stamp-contest-in-the-5-11-age-group/?fbclid=IwY2xjawU2YTpleHRuA2FlbQIxMQBwZG9mBWJyaWQRMWhNdjBJemhFeVRQaFJuc3dzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeD11Px_k4GGo72Wdot9Drmw-tEvuDQptK1jGpscTL_lEA9cbZePiwfdLtF2M_aem_OJ8jXOwUYinlaUoxu0Xi7w" }]
       },
       {
         img: "assets/images/planet-video.jpg",
@@ -194,7 +194,7 @@ window.SITE = {
         where: "Better Climate4MyHealth contest",
         title: "“A Planet in Peril and a Promise to Keep”",
         text: "Winning video entry.",
-        links: []
+        links: [{ text: "Video", url: "https://youtu.be/kHJgXGAzVdc" }]
       }
     ]
   },
@@ -206,10 +206,10 @@ window.SITE = {
     quote: "“From academic excellence to innovative projects and meaningful community impact, he's proving that age is no barrier to brilliance” — Smile Jamaica, Television Jamaica.",
     video: {
       img: "assets/images/tvj-interview.jpg",
-      url: "https://www.youtube.com/watch?v=tqolHt7idCg"
+      url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/"
     },
     links: [
-      { text: "▶ TVJ Smile Jamaica — Young Star Rising (YouTube)", url: "https://www.youtube.com/watch?v=tqolHt7idCg" },
+      { text: "▶ TVJ Smile Jamaica — Young Star Rising (YouTube)", url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
       { text: "Smile Jamaica #CaribbeanCheckIn post",              url: "https://www.facebook.com/smilejamtvj/posts/1355395396376284/" },
       { text: "St Vincent Times — double medal in Puerto Rico",    url: "https://www.stvincenttimes.com/st-vincent-chess-prodigy-vedant-shetty-central-american-caribbean-youth-chess-festival/" },
       { text: "Searchlight — Pan-American podium in Peru",         url: "https://www.searchlight.vc/sports/2025/08/08/svg-rep-podium-position-35th-pan-american-youth-chess-championship/" },
